@@ -1,7 +1,7 @@
 # Instructions:
 # Create a folder and use script on the Desktop. I will use this created folder as my control box. 
 # For validation, use an image that does not compromise your home location, submit into an online metadata reader, to see what is there now by default.
-# or use https://github.com/ianare/exif-samples for some samples
+# or use https://github.com/ianare/exif-samples for some samples, then submit to https://jimpl.com/ to see what "metadata" is for a photo.
 # Next, put the image to be cleansed. Put that in the folder and run the script. 
 
 #imports, fun fact you can watch the size of the file reduce in real time.
